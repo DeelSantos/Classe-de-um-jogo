@@ -23,5 +23,11 @@ let heroGuerreiro = new hero("Cleitinho", 18, "Guerreiro", "Tormenta de aço", "
 let heroMonge = new hero("Shogeki", 21, "Monge", "Lotus primária", "Defesa absouluta")
 
 
-
-
+heroMago.atacar()
+heroMago.defender()
+console.log("==============================================");
+heroGuerreiro.atacar()
+heroGuerreiro.defender()
+console.log("==============================================");
+heroMonge.atacar()
+heroMonge.defender()

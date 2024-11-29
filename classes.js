@@ -31,3 +31,6 @@ heroGuerreiro.defender()
 console.log("==============================================");
 heroMonge.atacar()
 heroMonge.defender()
+
+heroMonge.defender()
+
